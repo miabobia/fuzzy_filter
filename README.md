@@ -8,10 +8,10 @@ Using this image as an example
 
 There are two modes of filters that can be applied to this image.
 ### Mode 1 - FUZZY FOREGROUND
-![](output/hello_world_mode_1.gif?raw=true)
+![](output/hello_world_mode_1.gif)
 
 ### Mode 2 - FUZZY BACKGROUND
-![](output/hello_world_mode_2.gif?raw=true)
+![](output/hello_world_mode_2.gif)
 
 ## Configure Software
 ```txt
