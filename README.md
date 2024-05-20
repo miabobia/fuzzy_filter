@@ -1,8 +1,8 @@
 # fuzzy_filter
-This software applies a static fuzzy filter to an image! This was inspired by this post https://twitter.com/yupd0wn/status/1791490451574579431 . This is my attempt to recreate this effect using Python's PIL library
+This software applies a static fuzzy filter to an image! This was inspired by this post https://twitter.com/yupd0wn/status/1791490451574579431 This is my attempt to recreate this effect using Python's PIL library
+
 ## Image Filter Modes
 Using this image as an example
-
 
 ![](hello_world.png?raw=true)
 
