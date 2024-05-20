@@ -1,4 +1,13 @@
 # fuzzy_filter
+This software applies a static fuzzy filter to an image! This was inspired by this post https://twitter.com/yupd0wn/status/1791490451574579431 . This is my attempt to recreate this effect using Python's PIL library
+## Image Filter Modes
+Using this image as an example ![](https://github.com/mamamia96/fuzzy_filter/hello_world.png)
+There are two modes of filters that can be applied to this image.
+### Mode 1 - FUZZY FOREGROUND
+![](https://github.com/mamamia96/fuzzy_filter/output/hello_world_mode_1.gif)
+
+### Mode 2 - FUZZY BACKGROUND
+![](https://github.com/mamamia96/fuzzy_filter/output/hello_world_mode_2.gif)
 
 ## Configure Software
 ```txt
